@@ -1,0 +1,14 @@
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/home/jonasrejcs/Documents/Desenvolvimento/NET-CORE/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
